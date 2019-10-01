@@ -1,0 +1,15 @@
+{
+  "name": "js-util",
+  "version": "1.0.5",
+  "description": "JavaScript utility functions for Web development.",
+  "author": {
+    "name": "Warren Galyen",
+    "url": "http://www.mechanikadesign.com/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warrengalyen/js-util.git"
+  },
+  "private": "true"
+}
